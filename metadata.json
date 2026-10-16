@@ -1,0 +1,6 @@
+{
+  "name": "SingaFX - Singapore SGD Exchange Rates & Currency Matrix",
+  "description": "Real-time foreign exchange rates for Singapore Dollar (SGD) against global currencies, money changer spreads, multi-currency travel cards comparison, and financial calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
